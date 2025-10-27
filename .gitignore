@@ -1,0 +1,5 @@
+## Visual Studio temporales 
+.vs/ 
+*.suo 
+*.user 
+*.vsidx 
