@@ -6,6 +6,7 @@ En esta etapa también se configuran alias y mapeos de tipo de datos para garant
 
 
 3. Division Condicional.
+
       -Si el monto es válido (> 0), los datos continúan hacia la tabla de ventas.
     
       -Si el monto es inválido (< 0), el registro se redirige a la tabla ETL_ErrorLog.
