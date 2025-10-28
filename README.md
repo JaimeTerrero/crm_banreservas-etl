@@ -1,5 +1,4 @@
-1. Origen de archivo plano. Lee un archivo de texto, en este caso un .csv, a través de la ruta especificada.
-El primer paso consiste en indicar correctamente la ruta del archivo de origen que contiene los datos a importar.
+1. Origen de archivo plano. Lee un archivo de texto, en este caso un .csv, a través de la ruta especificada. El primer paso consiste en indicar correctamente la ruta del archivo de origen que contiene los datos a importar.
 
 
 2. Conversion de datos. Realiza la conversión de los tipos de datos del archivo hacia los tipos esperados por la base de datos.
