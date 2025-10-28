@@ -40,3 +40,7 @@ En esta etapa también se configuran alias y mapeos de tipo de datos para garant
       -En Nombre de la tabla o vista, indicar ETL_ErrorLog.
       
       -Verificar los mapeos en Asignaciones.
+
+NOTA: Recordar correr los SCRIPTS enviados en el correo para el correcto funcionamiento de la aplicación.
+
+
